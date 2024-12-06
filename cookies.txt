@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.prod.website-files.com	TRUE	/	FALSE	1999999999	__cf_bm	6Y3uLloR6RM3PYO9ZelUM3FoVIzooSBswE8yNoU_L28-1733468953-1.0.1.1-Vtt7J4pbBV2f0iWe8ebf9YskYft4fUlgFuCRM6GjwcMwNnuM9TXwngWu8oMB.pOUv9vBcHXDmjcFaW4Ns_.lvA
+cdn.prod.website-files.com	TRUE	/	FALSE	1999999999	SameSite	None
+.cdn.webflow.com	TRUE	/	FALSE	1999999999	__cf_bm	I2FWeQNK1z4m4BVTkV04UEScu_JQhlYaBBe0GOBsW4w-1733468974-1.0.1.1-K7hUhksN70SutUsZfFMpnUrl_M08dNo.BJdyb_nCFWiur7VfIV8_RpadTdS714xnpWodYryS7B3h7ENCoifErQ
+.cdn.webflow.com	TRUE	/	FALSE	1999999999	_cfuvid	v67GMSL32kuBaOkyBWh9vxAb4_S88G.SCtLf9eyGl7c-1733468975129-0.0.1.1-604800000
+www.dryve.com.br	TRUE	/	FALSE	1999999999	SameSite	None
+

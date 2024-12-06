@@ -1,0 +1,60 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 06 Dec 2024 04:09:14 at https://www.dryve.com.br/assinatura +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+
+(winhttrack -qwC2%Ps2u1%s%u%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://www.dryve.com.br/assinatura -O1 "C:\Users\gggggggggggggggggggg\Desktop\dryvev" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+
+	such as username/password authentication for websites mirrored in this project
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+04:09:23	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.dryve.com.br/assinatura)
+
+04:09:31	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.dryve.com.br/a (from https://connect.facebook.net/en_US/fbevents.js)
+
+04:09:31	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.dryve.com.br/POST (from https://connect.facebook.net/en_US/fbevents.js)
+
+04:09:31	Warning: 	Moved Permanently for https://www.dryve.com.br/schema.org/
+
+04:09:31	Warning: 	File has moved from https://www.dryve.com.br/schema.org/ to https://www.dryve.com.br/schema.org
+
+04:09:31	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.dryve.com.br/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+
+04:09:31	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.dryve.com.br/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+
+04:09:31	Error: 	"Not Found" (404) at link https://www.dryve.com.br/carreiras (from https://www.dryve.com.br/legal/politica-de-privacidade)
+
+04:09:36	Warning: 	Retry after error 502 () at link https://www.dryve.com.br/a (from https://connect.facebook.net/en_US/fbevents.js)
+
+04:09:36	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.dryve.com.br/POST (from https://connect.facebook.net/en_US/fbevents.js)
+
+04:09:36	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.dryve.com.br/schema.org (from https://www.dryve.com.br/schema.org/)
+
+04:09:36	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.dryve.com.br/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+
+04:09:36	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.dryve.com.br/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+
+04:09:39	Error: 	"" (502) after 2 retries at link https://www.dryve.com.br/a (from https://connect.facebook.net/en_US/fbevents.js)
+
+04:09:40	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.dryve.com.br/POST (from https://connect.facebook.net/en_US/fbevents.js)
+
+04:09:40	Warning: 	Retry after error 502 () at link https://www.dryve.com.br/schema.org (from https://www.dryve.com.br/schema.org/)
+
+04:09:40	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.dryve.com.br/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+
+04:09:40	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.dryve.com.br/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+
+04:09:40	Error: 	"" (502) after 2 retries at link https://www.dryve.com.br/schema.org (from https://www.dryve.com.br/schema.org/)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 26 seconds : 83 links scanned, 64 files written (16436097 bytes overall) [14798785 bytes received at 569184 bytes/sec], 2437487 bytes transferred using HTTP compression in 40 files, ratio 26%, 2.0 requests per connection
+
+(7 errors, 12 warnings, 0 messages)
+
